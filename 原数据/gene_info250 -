@@ -1,0 +1,248 @@
+7	5692769	NEWENTRY	-	-	-	-	-	Record to support submission of GeneRIFs for a gene not in Gene (Azorhizobium caulinodans Dreyfus et al. 1988; Azotirhizobium caulinodans.  Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.).	other	-	-	-	-	20071023
+9	1246500	repA1	pLeuDn_01	-	-	-	-	putative replication-associated protein	protein-coding	-	-	-	-	20141002
+9	1246501	repA2	pLeuDn_03	-	-	-	-	putative replication-associated protein	protein-coding	-	-	-	-	20141002
+9	1246502	leuA	pLeuDn_04	-	-	-	-	2-isopropylmalate synthase	protein-coding	-	-	-	-	20141002
+9	1246503	leuB	pLeuDn_05	-	-	-	-	3-isopropylmalate dehydrogenase	protein-coding	-	-	-	-	20141002
+9	1246504	leuC	pLeuDn_06	-	-	-	-	isopropylmalate isomerase large subunit	protein-coding	-	-	-	-	20141002
+9	1246505	leuD	pLeuDn_07	-	-	-	-	isopropylmalate isomerase small subunit	protein-coding	-	-	-	-	20141002
+9	1246509	ibp	pBPS1_01	-	-	-	-	Ibp protein	protein-coding	-	-	-	-	20141002
+9	1246510	repA1	pBPS1_02	-	-	-	-	repA1 protein	protein-coding	-	-	-	-	20141002
+9	2827857	NEWENTRY	-	-	-	-	-	Record to support submission of GeneRIFs for a gene not in Gene (Buchnera aphidicola Munson et al. 1991.  Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.).	other	-	-	-	-	20080731
+9	3722426	pLeuDn_02	pLeuDn_02	-	-	-	-	ORF1	protein-coding	-	-	-	hypothetical protein	20141003
+9	8655732	leuC	pleuBTgp2	-	-	-	-	3-isopropylmalate dehydratase large subunit; leucine biosinthesis	protein-coding	-	-	-	truncated LeuC	20141108
+9	8655733	leuD	pleuBTgp3	-	-	-	-	3-isopropylmalate dehydratase small subunit	protein-coding	-	-	-	truncated LeuD	20141108
+9	8655734	leuA	pleuBTgp4	-	-	-	-	2-isopropylmalate synthase	protein-coding	-	-	-	truncated LeuA	20141108
+9	8655735	repA	pleuBTgp5	-	-	-	-	replication-associated protein	protein-coding	-	-	-	truncated RepA	20141108
+9	8655736	leuB	pleuBTgp1	-	-	-	-	3-isopropylmalate dehydrogenase; leucine biosynthesis	protein-coding	-	-	-	LeuB	20141108
+9	20468915	trpG	D654_p10002	-	-	-	-	anthranilate synthase small subunit	protein-coding	-	-	-	-	20141002
+9	20468916	trpE	D654_p10001	-	-	-	-	anthranilate synthase large subunit	protein-coding	-	-	-	-	20141002
+11	10823747	NEWENTRY	-	-	-	-	-	Record to support submission of GeneRIFs for a gene not in Gene (Cellvibrio gilvus.  Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.).	other	-	-	-	-	20111005
+14	6951813	NEWENTRY	-	-	-	-	-	Record to support submission of GeneRIFs for a gene not in Gene (Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.).	other	-	-	-	-	20081024
+19	3758873	NEWENTRY	-	-	-	-	-	Record to support submission of GeneRIFs for a gene not in Gene (Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.).	other	-	-	-	-	20101218
+24	5129993	NEWENTRY	-	-	-	-	-	Record to support submission of GeneRIFs for a gene not in Gene (Alteromonas putrefaciens; Alteromonas putrifaciens; Pseudomonas putrefaciens; Shewanella putrifaciens.  Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.).	other	-	-	-	-	20140705
+33	5961931	pMF1.19c	pMF1.19c	pMX1.19c	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20141024
+33	5961932	pMF1.12	pMF1.12	pMX1.12	-	-	-	putative protein kinase	protein-coding	-	-	-	-	20140516
+33	5961933	pMF1.22	pMF1.22	pMX1.22	-	-	-	putative cobyrinic acid A,C-diamide synthase	protein-coding	-	-	-	-	20141024
+33	5961934	pMF1.17	pMF1.17	pMX1.17	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20140516
+33	5961935	pMF1.7	pMF1.7	pMX1.7	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20140516
+33	5961936	pMF1.6	pMF1.6	pMX1.6	-	-	-	putative mucin-associated surface protein	protein-coding	-	-	-	-	20140516
+33	5961937	pMF1.23	pMF1.23	pMX1.23	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20140516
+33	5961938	pMF1.13	pMF1.13	pMX1.13	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20141024
+33	5961939	pMF1.1	pMF1.1	pMX1.1	-	-	-	putative APEG precursor protein	protein-coding	-	-	-	-	20141024
+33	5961940	pMF1.9	pMF1.9	pMX1.9	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20140516
+33	5961941	pMF1.5	pMF1.5	pMX1.5	-	-	-	putative RTX toxin-related Ca2+-binding protein	protein-coding	-	-	-	-	20140516
+33	5961942	pMF1.10	pMF1.10	pMX1.10	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20140516
+33	5961943	pMF1.21	pMF1.21	pMX1.21	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20140516
+33	5961944	pMF1.8	pMF1.8	pMX1.8	-	-	-	putative glycoside hydrolase, family 19	protein-coding	-	-	-	-	20141024
+33	5961945	pMF1.20c	pMF1.20c	pMX1.20c	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20141024
+33	5961946	pMF1.4	pMF1.4	pMX1.4	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20141024
+33	5961947	pMF1.14	pMF1.14	pMX1.14	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20140516
+33	5961948	pMF1.2	pMF1.2	pMX1.2	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20141024
+33	5961949	pMF1.18	pMF1.18	pMX1.18	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20140516
+33	5961950	pMF1.16	pMF1.16	pMX1.16	-	-	-	putative resolvase	protein-coding	-	-	-	-	20141024
+33	5961951	pMF1.11	pMF1.11	pMX1.11	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20140516
+33	5961952	pMF1.15	pMF1.15	pMX1.15	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20141024
+33	5961953	pMF1.3	pMF1.3	pMX1.3	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20140516
+33	5999886	NEWENTRY	-	-	-	-	-	Record to support submission of GeneRIFs for a gene not in Gene (Micrococcus fulvus.  Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.).	other	-	-	-	-	20090921
+34	4126706	NEWENTRY	-	-	-	-	-	Record to support submission of GeneRIFs for a gene not in Gene (Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.).	other	-	-	-	-	20131123
+41	9909664	NEWENTRY	-	-	-	-	-	Record to support submission of GeneRIFs for a gene not in Gene (Chondromyces aurantiacus.  Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.).	other	-	-	-	-	20130413
+56	5814795	NEWENTRY	-	-	-	-	-	Record to support submission of GeneRIFs for a gene not in Gene (Polyangium cellulosum; Polyangium compositum; Sorangium compositum; Sorangium nigrescens; Sorangium nigrum.  Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.).	other	-	-	-	-	20120526
+65	5740022	NEWENTRY	-	-	-	-	-	Record to support submission of GeneRIFs for a gene not in Gene (Herpetosiphon giganteus.  Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.).	other	-	-	-	-	20140614
+104	11040315	NEWENTRY	-	-	-	-	-	Record to support submission of GeneRIFs for a gene not in Gene (Cyclibacterium marinum; Cyclobacterium marinus; Flectobacillus marinus; Microcyclus marinus.  Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.).	other	-	-	-	-	20110809
+106	10894418	NEWENTRY	-	-	-	-	-	Record to support submission of GeneRIFs for a gene not in Gene (Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.).	other	-	-	-	-	20110628
+108	8746215	NEWENTRY	-	-	-	-	-	Record to support submission of GeneRIFs for a gene not in Gene (Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.).	other	-	-	-	-	20100529
+119	10271570	NEWENTRY	-	-	-	-	-	Record to support submission of GeneRIFs for a gene not in Gene (Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.).	other	-	-	-	-	20111220
+120	9406683	NEWENTRY	-	-	-	-	-	Record to support submission of GeneRIFs for a gene not in Gene (Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.).	other	-	-	-	-	20130126
+125	8716550	NEWENTRY	-	-	-	-	-	Record to support submission of GeneRIFs for a gene not in Gene (Pirella staleyi; Planctomyces staleyi.  Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.).	other	-	-	-	-	20111220
+128	10178741	NEWENTRY	-	-	-	-	-	Record to support submission of GeneRIFs for a gene not in Gene (Isocystis pallida; Torulopsidosira pallida.  Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.).	other	-	-	-	-	20111220
+139	1343044	orf01	cp18-2_p02	-	-	-	-	pseudo	pseudo	-	-	-	-	20120825
+139	1343045	orf02	cp18-2_p03	-	-	-	-	ORF02	protein-coding	-	-	-	-	20141001
+139	1343046	orf03	cp18-2_p04	-	-	-	-	ORF03	protein-coding	-	-	-	-	20141001
+139	1343047	orf04	cp18-2_p05	-	-	-	-	ORF04	protein-coding	-	-	-	-	20141001
+139	1343048	orf05	cp18-2_p06	-	-	-	-	ORF05	protein-coding	-	-	-	-	20141001
+139	1343049	orf06	cp18-2_p07	-	-	-	-	ORF06	protein-coding	-	-	-	-	20141001
+139	1343050	orf07	cp18-2_p08	-	-	-	-	ORF07/2.9 ORF5	protein-coding	-	-	-	-	20141001
+139	1343051	orf08	cp18-2_p09	-	-	-	-	ORF08/2.9 ORF6	protein-coding	-	-	-	-	20141001
+139	1343052	orf09	cp18-2_p10	-	-	-	-	ORF09/2.9 ORF7	protein-coding	-	-	-	-	20141001
+139	1343053	orf10	cp18-2_p11	-	-	-	-	ORF10/2.9 ORF8	protein-coding	-	-	-	-	20141001
+139	1343054	orf11/blyA	cp18-2_p12	-	-	-	-	hemolysin subunit A	protein-coding	-	-	-	ORF11/BlyA	20141001
+139	1343055	orf12/blyB	cp18-2_p13	-	-	-	-	hemolysin subunit B	protein-coding	-	-	-	ORF12/BlyB	20141001
+139	1343056	orf13	cp18-2_p14	-	-	-	-	ORF13/2.9 ORFC	protein-coding	-	-	-	-	20141001
+139	1343057	orf14	cp18-2_p15	-	-	-	-	ORF14/2.9 ORFD	protein-coding	-	-	-	-	20141001
+139	1343058	orf15	cp18-2_p16	-	-	-	-	ORF15/rep+	protein-coding	-	-	-	-	20140516
+139	1343059	orf16	cp18-2_p17	-	-	-	-	ORF16/rep-	protein-coding	-	-	-	-	20140516
+139	1343060	orf17/2.9-9 lp	cp18-2_p18	-	-	-	-	ORF17/2.9-9 lipoprotein	protein-coding	-	-	-	-	20141001
+139	1343061	orf18	cp18-2_p19	-	-	-	-	ORF18/36 kDa	protein-coding	-	-	-	-	20141001
+139	1343062	orf19	cp18-2_p20	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20141001
+139	1343063	orf20	cp18-2_p21	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20141001
+139	1343064	orf21	cp18-2_p22	-	-	-	-	putative partioning protein	protein-coding	-	-	-	hypothetical protein	20141001
+139	1343065	orf22	cp18-2_p23	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20141001
+139	1343066	orf23/bdrA	cp18-2_p24	-	-	-	-	direct repeat protein	protein-coding	-	-	-	ORF23/BdrA	20141001
+139	1343067	orf24	cp18-2_p25	-	-	-	-	ORF24	protein-coding	-	-	-	-	20141001
+139	1343068	orf25	cp18-2_p26	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20141001
+139	1343069	orf26	cp18-2_p27	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20141001
+139	1343070	orf27	cp18-2_p28	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20141001
+139	1343071	orf28/p21	cp18-2_p29	-	-	-	-	ORF28/p21	protein-coding	-	-	-	-	20141001
+139	1343072	orf29/elpB2	cp18-2_p30	-	-	-	-	ORF29/ElpB2	protein-coding	-	-	-	-	20141001
+139	1343073	orf30	cp18-2_p31	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20141001
+139	1343074	orf31	cp18-2_p32	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20130610
+139	1343075	orf32	cp18-2_p01	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20141001
+139	2827859	NEWENTRY	-	-	-	-	-	Record to support submission of GeneRIFs for a gene not in Gene (Borrelia burdorferi; Borrelia burgdorferi sensu stricto; Borrelia burgdorffragment; Lyme disease spirochete.  Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.).	other	-	-	-	-	20141108
+139	4362664	Ip21p11	Ip21p11	-	-	-	-	ORF 9	protein-coding	-	-	-	hypothetical protein	20130610
+139	4362665	Ip21p04	Ip21p04	-	-	-	-	ORF 7b	protein-coding	-	-	-	hypothetical protein	20141015
+139	4362666	Ip21p01	Ip21p01	-	-	-	-	ORF X	protein-coding	-	-	-	hypothetical protein	20141015
+139	4362667	Ip21p02	Ip21p02	-	-	-	-	ORF 6	protein-coding	-	-	-	hypothetical protein	20130610
+139	4362668	Ip21p03	Ip21p03	-	-	-	-	ORF 7a	protein-coding	-	-	-	hypothetical protein	20141015
+139	4362669	Ip21p05	Ip21p05	-	-	-	-	ORF 8	protein-coding	-	-	-	hypothetical protein	20130610
+139	4362670	Ip21p06	Ip21p06	-	-	-	-	ORF 1	protein-coding	-	-	-	hypothetical protein	20141015
+139	4362671	Ip21p07	Ip21p07	-	-	-	-	ORF 2	protein-coding	-	-	-	hypothetical protein	20141015
+139	4362672	Ip21p08	Ip21p08	-	-	-	-	ORF 3	protein-coding	-	-	-	hypothetical protein	20141015
+139	4362673	Ip21p09	Ip21p09	-	-	-	-	ORF 4	protein-coding	-	-	-	hypothetical protein	20141015
+139	4362674	Ip21p10	Ip21p10	-	-	-	-	ORF 5	protein-coding	-	-	-	hypothetical protein	20130610
+139	4594753	lp6-9_p06	lp6-9_p06	-	-	-	-	CdsG	protein-coding	-	-	-	-	20130610
+139	4594754	lp6-9_p10	lp6-9_p10	-	-	-	-	CdsK	protein-coding	-	-	-	-	20130610
+139	4594755	lp6-9_p01	lp6-9_p01	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20130610
+139	4594756	lp6-9_p09	lp6-9_p09	-	-	-	-	CdsJ	protein-coding	-	-	-	-	20141015
+139	4594757	lp6-9_p13	lp6-9_p13	-	-	-	-	CdsN	protein-coding	-	-	-	-	20130610
+139	4594758	lp6-9_p03	lp6-9_p03	-	-	-	-	CdsD	protein-coding	-	-	-	-	20130610
+139	4594759	lp6-9_p08	lp6-9_p08	-	-	-	-	CdsI	protein-coding	-	-	-	-	20130610
+139	4594760	lp6-9_p04	lp6-9_p04	-	-	-	-	CdsE	protein-coding	-	-	-	-	20141015
+139	4594761	lp6-9_p14	lp6-9_p14	-	-	-	-	CdsO	protein-coding	-	-	-	-	20130610
+139	4594762	lp6-9_p02	lp6-9_p02	-	-	-	-	CdsC	protein-coding	-	-	-	-	20130610
+139	4594763	lp6-9_p05	lp6-9_p05	-	-	-	-	CdsF	protein-coding	-	-	-	-	20130610
+139	4594764	lp6-9_p12	lp6-9_p12	-	-	-	-	CdsM	protein-coding	-	-	-	-	20141015
+139	4594765	lp6-9_p07	lp6-9_p07	-	-	-	-	CdsH	protein-coding	-	-	-	-	20130610
+139	4594766	lp6-9_p11	lp6-9_p11	-	-	-	-	CdsL	protein-coding	-	-	-	-	20130610
+139	13917590	ospC	D690_p1	-	-	-	-	outer membrane lipoprotein	protein-coding	-	-	-	OspC	20140712
+140	6295700	NEWENTRY	-	-	-	-	-	Record to support submission of GeneRIFs for a gene not in Gene (Spirochaeta hermsi.  Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.).	other	-	-	-	-	20131207
+140	16190843	BHA053	BHA053	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131108
+140	16190844	BHA019	BHA019	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131108
+140	16190845	BHA018	BHA018	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131108
+140	16190846	BHA026	BHA026	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131108
+140	16190847	BHA025	BHA025	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131108
+140	16190848	BHA032	BHA032	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131108
+140	16190849	LOC16190849	-	-	-	-	-	hypothetical protein	pseudo	-	-	-	-	20130911
+140	16190850	BHA021	BHA021	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131108
+140	16190851	BHA015	BHA015	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20140222
+140	16190852	BHA036	BHA036	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20140329
+140	16190853	BHA044	BHA044	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20140222
+140	16190854	BHA027	BHA027	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20140222
+140	16190855	BHA051	BHA051	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131108
+140	16190856	BHA001	BHA001	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131108
+140	16190857	BHA047	BHA047	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131108
+140	16190858	BHA048	BHA048	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20140222
+140	16190859	BHA016	BHA016	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131108
+140	16190860	BHA007	BHA007	-	-	-	-	cihC	protein-coding	-	-	-	fibronectin binding protein	20140222
+140	16190861	BHA013	BHA013	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131108
+140	16190862	BHA006	BHA006	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131108
+140	16190863	BHA014	BHA014	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20140329
+140	16190864	BHA033	BHA033	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20140222
+140	16190865	BHA020	BHA020	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131108
+140	16190866	BHA024	BHA024	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20140329
+140	16190867	BHA028	BHA028	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131108
+140	16190868	BHA042	BHA042	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20140222
+140	16190869	BHA043	BHA043	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131108
+140	16190870	BHA010	BHA010	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131108
+140	16190871	BHA049	BHA049	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131108
+140	16190872	BHA035	BHA035	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20140329
+140	16190873	BHA017	BHA017	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20140329
+140	16190874	BHA022	BHA022	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20140329
+140	16190875	BHA039	BHA039	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131108
+140	16190876	BHA037	BHA037	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20140329
+140	16190877	BHA050	BHA050	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131108
+140	16190878	BHA002	BHA002	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131108
+140	16190879	BHA031	BHA031	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131108
+140	16190880	BHA040	BHA040	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131108
+140	16190881	BHA005	BHA005	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131108
+140	16190882	BHA055	BHA055	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131108
+140	16190883	BHA056	BHA056	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131108
+140	16190884	BHA057	BHA057	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20140222
+140	16190885	BHA058	BHA058	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131108
+140	16190886	BHA059	BHA059	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131108
+140	16190887	BHA060	BHA060	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131108
+140	16190888	BHA061	BHA061	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131108
+140	16190889	BHA062	BHA062	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131108
+140	16190890	BHA063	BHA063	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131108
+140	16190891	BHA064	BHA064	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131108
+140	16190892	BHA065	BHA065	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131108
+140	16190893	BHA066	BHA066	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131108
+140	16190894	BHA067	BHA067	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131108
+140	16190895	BHA068	BHA068	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131108
+140	16190896	BHA069	BHA069	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131108
+140	16190897	BHA070	BHA070	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131108
+140	16190898	BHA071	BHA071	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131108
+140	16190899	BHA072	BHA072	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131009
+140	16190900	BHA073	BHA073	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131009
+140	16190901	BHA074	BHA074	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131009
+140	16190902	BHA075	BHA075	-	-	-	-	nrdF	protein-coding	-	-	-	ribonucleoside reductase beta subunit	20140412
+140	16190903	BHA076	BHA076	-	-	-	-	nrdE	protein-coding	-	-	-	ribonucleoside reductase alpha subunit	20140412
+140	16190904	BHA077	BHA077	-	-	-	-	nrdI	protein-coding	-	-	-	ribonucleoprotein	20140406
+140	16190905	BHA078	BHA078	-	-	-	-	thyX	protein-coding	-	-	-	thymidylate synthase protein	20140406
+140	16190906	BHA079	BHA079	-	-	-	-	p23-like cell envelope protein	protein-coding	-	-	-	-	20131009
+140	16190907	BHA080	BHA080	-	-	-	-	p23-like cell envelope protein	protein-coding	-	-	-	-	20131108
+140	16190908	BHA081	BHA081	-	-	-	-	p23-like cell envelope protein	protein-coding	-	-	-	-	20131108
+140	16190909	BHA082	BHA082	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131108
+140	16190910	BHA083	BHA083	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20140329
+140	16190911	BHA084	BHA084	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20140222
+140	16190912	BHA085	BHA085	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20140329
+140	16190913	BHA086	BHA086	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20140222
+140	16190914	BHA087	BHA087	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131108
+140	16190915	BHA088	BHA088	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20140222
+140	16190916	BHA089	BHA089	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20140329
+140	16190917	BHA090	BHA090	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20140222
+140	16190918	BHA091	BHA091	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20140222
+140	16190919	BHA092	BHA092	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20140329
+140	16190920	BHA093	BHA093	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20140329
+140	16190921	BHA094	BHA094	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20140222
+140	16190922	BHA095	BHA095	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131108
+140	16190923	BHA096	BHA096	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20140222
+140	16190924	BHA097	BHA097	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20140222
+140	16190925	BHA098	BHA098	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20140222
+140	16190926	BHA099	BHA099	-	-	-	-	outer surface protein	protein-coding	-	-	-	-	20140222
+140	16190927	BHA100	BHA100	-	-	-	-	lichenan-specific phosphotransferase enzyme IIb component	protein-coding	-	-	-	-	20140222
+140	16190928	BHA101	BHA101	-	-	-	-	PTS system	protein-coding	-	-	-	cellobiose-specific IIA component	20140222
+140	16190929	BHA102	BHA102	-	-	-	-	PTS system	protein-coding	-	-	-	cellobiose-specific IIC component	20140329
+140	16190930	BHA103	BHA103	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131108
+140	16190931	BHA104	BHA104	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131108
+140	16190932	BHA105	BHA105	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131108
+140	16190933	BHA106	BHA106	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131108
+140	16190934	BHA107	BHA107	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131108
+140	16190935	BHA108	BHA108	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131108
+140	16190936	BHA109	BHA109	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131108
+140	16190937	BHA110	BHA110	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131108
+140	16190938	BHA111	BHA111	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131108
+140	16190939	BHA112	BHA112	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131108
+140	16190940	BHA113	BHA113	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131108
+140	16190941	BHA114	BHA114	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131108
+140	16190942	BHA115	BHA115	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131108
+140	16190943	BHA116	BHA116	-	-	-	-	repH21	protein-coding	-	-	-	Bdr-like protein	20131108
+140	16190944	BHA117	BHA117	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131108
+140	16190945	BHA118	BHA118	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131108
+140	16190946	BHA119	BHA119	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131108
+140	16190947	BHA120	BHA120	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131108
+140	16190948	BHA121	BHA121	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131108
+140	16190949	BHA122	BHA122	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131108
+140	16190950	BHA123	BHA123	-	-	-	-	bipA	protein-coding	-	-	-	immunogenic protein A	20140329
+140	16190951	BHA124	BHA124	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131108
+140	16190952	BHA125	BHA125	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131108
+140	16190953	BHA126	BHA126	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131108
+140	16190954	BHA127	BHA127	-	-	-	-	p23-like cell envelope protein	protein-coding	-	-	-	-	20131108
+140	16190955	BHA128	BHA128	-	-	-	-	alp	protein-coding	-	-	-	arthropod-associated lipoprotein	20140222
+140	16190956	BHA129	BHA129	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131108
+140	16190957	BHA130	BHA130	-	-	-	-	bsr terminase 3	protein-coding	-	-	-	-	20140222
+140	16190958	BHA131	BHA131	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131108
+140	16190959	BHA132	BHA132	-	-	-	-	putative plasmid partition protein	protein-coding	-	-	-	PF49 protein	20140329
+140	16190960	BHA133	BHA133	-	-	-	-	CobQ/CobB/MinD/ParA nucleotide binding domain protein	protein-coding	-	-	-	PF32	20140222
+140	16190961	BHA134	BHA134	-	-	-	-	predicted plasmid partition protein	protein-coding	-	-	-	PF50	20140222
+140	16190962	BHA135	BHA135	-	-	-	-	predicted plasmid partition protein	protein-coding	-	-	-	PF57/62	20140222
+140	16190963	BHA136	BHA136	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20140222
+140	16190964	BHA137	BHA137	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131108
+140	16190965	BHA138	BHA138	-	-	-	-	blyA family protein	protein-coding	-	-	-	holin	20131108
+140	16190966	BHA139	BHA139	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20140222
+140	16190967	BHA140	BHA140	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20140222
+140	16190968	BHA141	BHA141	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20140222
+140	16190969	BHA142	BHA142	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20140222
+140	16190970	BHA143	BHA143	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131108
+140	16190971	BHA144	BHA144	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20140329
+140	16190972	BHA145	BHA145	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131108
+140	16190973	BHA146	BHA146	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20131108

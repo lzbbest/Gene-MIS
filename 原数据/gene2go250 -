@@ -1,0 +1,248 @@
+3702	814629	GO:0005634	ISM	-	nucleus	-	Component
+3702	814629	GO:0008150	ND	-	biological_process	-	Process
+3702	814630	GO:0003700	ISS	-	sequence-specific DNA binding transcription factor activity	11118137	Function
+3702	814630	GO:0005634	ISM	-	nucleus	-	Component
+3702	814630	GO:0006355	TAS	-	regulation of transcription, DNA-templated	11118137	Process
+3702	814630	GO:0006499	RCA	-	N-terminal protein myristoylation	22589469	Process
+3702	814630	GO:0006635	RCA	-	fatty acid beta-oxidation	22589469	Process
+3702	814630	GO:0006891	RCA	-	intra-Golgi vesicle-mediated transport	22589469	Process
+3702	814630	GO:0016558	RCA	-	protein import into peroxisome matrix	22589469	Process
+3702	814636	GO:0003674	ND	-	molecular_function	-	Function
+3702	814636	GO:0005886	IDA	-	plasma membrane	17317660	Component
+3702	814636	GO:0008150	ND	-	biological_process	-	Process
+3702	814637	GO:0003674	ND	-	molecular_function	-	Function
+3702	814637	GO:0005794	IDA	-	Golgi apparatus	22430844	Component
+3702	814637	GO:0005794	ISM	-	Golgi apparatus	-	Component
+3702	814637	GO:0005886	ISM	-	plasma membrane	-	Component
+3702	814637	GO:0006084	RCA	-	acetyl-CoA metabolic process	22589469	Process
+3702	814637	GO:0008150	ND	-	biological_process	-	Process
+3702	814637	GO:0016126	RCA	-	sterol biosynthetic process	22589469	Process
+3702	814637	GO:0016132	RCA	-	brassinosteroid biosynthetic process	22589469	Process
+3702	814638	GO:0005750	ISS	-	mitochondrial respiratory chain complex III	-	Component
+3702	814638	GO:0006122	ISS	-	mitochondrial electron transport, ubiquinol to cytochrome c	-	Process
+3702	814638	GO:0008121	ISS	-	ubiquinol-cytochrome-c reductase activity	-	Function
+3702	814639	GO:0003674	ND	-	molecular_function	-	Function
+3702	814639	GO:0005634	ISM	-	nucleus	-	Component
+3702	814639	GO:0008150	ND	-	biological_process	-	Process
+3702	814640	GO:0000023	RCA	-	maltose metabolic process	22589469	Process
+3702	814640	GO:0005886	ISM	-	plasma membrane	-	Component
+3702	814640	GO:0006364	RCA	-	rRNA processing	22589469	Process
+3702	814640	GO:0009507	IDA	-	chloroplast	18431481	Component
+3702	814640	GO:0009535	IDA	-	chloroplast thylakoid membrane	19207210	Component
+3702	814640	GO:0009567	IMP	-	double fertilization forming a zygote and endosperm	15634699	Process
+3702	814640	GO:0009902	RCA	-	chloroplast relocation	22589469	Process
+3702	814640	GO:0009977	ISS	-	proton motive force dependent protein transmembrane transporter activity	12029389	Function
+3702	814640	GO:0010027	IMP	-	thylakoid membrane organization	11526245	Process
+3702	814640	GO:0010027	RCA	-	thylakoid membrane organization	22589469	Process
+3702	814640	GO:0010207	RCA	-	photosystem II assembly	22589469	Process
+3702	814640	GO:0019252	RCA	-	starch biosynthetic process	22589469	Process
+3702	814640	GO:0031361	IDA	-	integral component of thylakoid membrane	19207210	Component
+3702	814640	GO:0033281	IDA	-	TAT protein transport complex	18930082	Component
+3702	814640	GO:0034660	RCA	-	ncRNA metabolic process	22589469	Process
+3702	814640	GO:0035304	RCA	-	regulation of protein dephosphorylation	22589469	Process
+3702	814640	GO:0042793	RCA	-	transcription from plastid promoter	22589469	Process
+3702	814640	GO:0043235	IDA	-	receptor complex	19207210	Component
+3702	814640	GO:0045893	RCA	-	positive regulation of transcription, DNA-templated	22589469	Process
+3702	814641	GO:0000278	RCA	-	mitotic cell cycle	22589469	Process
+3702	814641	GO:0000808	ISS	-	origin recognition complex	16179646	Component
+3702	814641	GO:0005515	IPI	-	protein binding	16179646	Function
+3702	814641	GO:0005634	ISM	-	nucleus	-	Component
+3702	814641	GO:0006260	ISS	-	DNA replication	16179646	Process
+3702	814641	GO:0006260	RCA	-	DNA replication	22589469	Process
+3702	814641	GO:0006306	RCA	-	DNA methylation	22589469	Process
+3702	814641	GO:0006346	RCA	-	methylation-dependent chromatin silencing	22589469	Process
+3702	814641	GO:0006396	RCA	-	RNA processing	22589469	Process
+3702	814641	GO:0007062	RCA	-	sister chromatid cohesion	22589469	Process
+3702	814641	GO:0008283	RCA	-	cell proliferation	22589469	Process
+3702	814641	GO:0009560	RCA	-	embryo sac egg cell differentiation	22589469	Process
+3702	814641	GO:0009909	RCA	-	regulation of flower development	22589469	Process
+3702	814641	GO:0016458	RCA	-	gene silencing	22589469	Process
+3702	814641	GO:0031048	RCA	-	chromatin silencing by small RNA	22589469	Process
+3702	814641	GO:0034968	RCA	-	histone lysine methylation	22589469	Process
+3702	814641	GO:0045132	RCA	-	meiotic chromosome segregation	22589469	Process
+3702	814641	GO:0051567	RCA	-	histone H3-K9 methylation	22589469	Process
+3702	814642	GO:0003676	ISS	-	nucleic acid binding	-	Function
+3702	814642	GO:0004386	ISS	-	helicase activity	-	Function
+3702	814642	GO:0005524	ISS	-	ATP binding	-	Function
+3702	814642	GO:0005634	ISM	-	nucleus	-	Component
+3702	814643	GO:0004332	ISS	-	fructose-bisphosphate aldolase activity	10725559	Function
+3702	814643	GO:0005739	IDA	-	mitochondrion	12492832	Component
+3702	814643	GO:0006007	RCA	-	glucose catabolic process	22589469	Process
+3702	814643	GO:0006098	RCA	-	pentose-phosphate shunt	22589469	Process
+3702	814643	GO:0006098	TAS	-	pentose-phosphate shunt	-	Process
+3702	814643	GO:0006979	IDA	-	response to oxidative stress	12492832	Process
+3702	814643	GO:0009507	IDA	-	chloroplast	15028209	Component
+3702	814643	GO:0009507	ISM	-	chloroplast	-	Component
+3702	814643	GO:0009507	ISS	-	chloroplast	10725559	Component
+3702	814643	GO:0009534	IDA	-	chloroplast thylakoid	20061580	Component
+3702	814643	GO:0009536	IDA	-	plastid	22923678	Component
+3702	814643	GO:0009570	IDA	-	chloroplast stroma	20061580	Component
+3702	814643	GO:0009651	RCA	-	response to salt stress	22589469	Process
+3702	814643	GO:0010287	IDA	-	plastoglobule	16414959	Component
+3702	814643	GO:0046686	IEP	-	response to cadmium ion	16502469	Process
+3702	814644	GO:0004842	TAS	-	ubiquitin-protein transferase activity	12062802	Function
+3702	814644	GO:0008270	ISS	-	zinc ion binding	-	Function
+3702	814644	GO:0080167	IEP	-	response to karrikin	20351290	Process
+3702	814645	GO:0005313	IDA	-	L-glutamate transmembrane transporter activity	19199104	Function
+3702	814645	GO:0005739	IDA	-	mitochondrion	21501262	Component
+3702	814645	GO:0015180	IDA	-	L-alanine transmembrane transporter activity	19199104	Function
+3702	814645	GO:0015181	IDA	-	arginine transmembrane transporter activity	19199104	Function
+3702	814645	GO:0015185	IMP	-	gamma-aminobutyric acid transmembrane transporter activity	21501262	Function
+3702	814645	GO:0015189	IDA	-	L-lysine transmembrane transporter activity	19199104	Function
+3702	814645	GO:0015812	IMP	-	gamma-aminobutyric acid transport	21501262	Process
+3702	814646	GO:0005739	ISM	-	mitochondrion	-	Component
+3702	814646	GO:0005886	IDA	-	plasma membrane	17317660	Component
+3702	814646	GO:0005887	TAS	-	integral component of plasma membrane	11278556	Component
+3702	814646	GO:0006644	NAS	-	phospholipid metabolic process	-	Process
+3702	814646	GO:0008195	IDA	-	phosphatidate phosphatase activity	11278556	Function
+3702	814646	GO:0008195	ISS	-	phosphatidate phosphatase activity	-	Function
+3702	814646	GO:0009507	ISM	-	chloroplast	-	Component
+3702	814646	GO:0010224	IEP	-	response to UV-B	11278556	Process
+3702	814647	GO:0005634	IDA	-	nucleus	18433157	Component
+3702	814647	GO:0005634	ISM	-	nucleus	-	Component
+3702	814647	GO:0005829	IDA	-	cytosol	18433157	Component
+3702	814648	GO:0003700	ISS	-	sequence-specific DNA binding transcription factor activity	11118137	Function
+3702	814648	GO:0005634	ISM	-	nucleus	-	Component
+3702	814648	GO:0009555	IMP	-	pollen development	19237690	Process
+3702	814648	GO:0009733	TAS	-	response to auxin	12036262	Process
+3702	814648	GO:0009793	IMP	-	embryo development ending in seed dormancy	15634699	Process
+3702	814649	GO:0004674	ISS	-	protein serine/threonine kinase activity	-	Function
+3702	814649	GO:0005524	ISS	-	ATP binding	-	Function
+3702	814649	GO:0005886	IDA	-	plasma membrane	14506206	Component
+3702	814649	GO:0005886	ISM	-	plasma membrane	-	Component
+3702	814649	GO:0006346	RCA	-	methylation-dependent chromatin silencing	22589469	Process
+3702	814649	GO:0006468	ISS	-	protein phosphorylation	-	Process
+3702	814649	GO:0007169	ISS	-	transmembrane receptor protein tyrosine kinase signaling pathway	-	Process
+3702	814649	GO:0009505	IDA	-	plant-type cell wall	16287169	Component
+3702	814649	GO:0009507	IDA	-	chloroplast	18431481	Component
+3702	814649	GO:0009570	IDA	-	chloroplast stroma	18633119	Component
+3702	814649	GO:0016246	RCA	-	RNA interference	22589469	Process
+3702	814649	GO:0016301	ISS	-	kinase activity	-	Function
+3702	814649	GO:0031048	RCA	-	chromatin silencing by small RNA	22589469	Process
+3702	814649	GO:0048451	RCA	-	petal formation	22589469	Process
+3702	814649	GO:0048453	RCA	-	sepal formation	22589469	Process
+3702	814649	GO:0051567	RCA	-	histone H3-K9 methylation	22589469	Process
+3702	814650	GO:0009941	IDA	-	chloroplast envelope	12938931	Component
+3702	814651	GO:0008150	ND	-	biological_process	-	Process
+3702	814652	GO:0003735	ISS	-	structural constituent of ribosome	-	Function
+3702	814652	GO:0005618	IDA	-	cell wall	16287169	Component
+3702	814652	GO:0005737	ISM	-	cytoplasm	-	Component
+3702	814652	GO:0005773	IDA	-	vacuole	15215502	Component
+3702	814652	GO:0005774	IDA	-	vacuolar membrane	17151019	Component
+3702	814652	GO:0005794	RCA	NOT	Golgi apparatus	22430844	Component
+3702	814652	GO:0005829	IDA	-	cytosol	21166475	Component
+3702	814652	GO:0005886	IDA	-	plasma membrane	17317660	Component
+3702	814652	GO:0006412	ISS	-	translation	-	Process
+3702	814652	GO:0009507	IDA	-	chloroplast	15028209	Component
+3702	814652	GO:0015934	ISS	-	large ribosomal subunit	-	Component
+3702	814652	GO:0016020	IDA	-	membrane	17432890	Component
+3702	814652	GO:0022625	IDA	-	cytosolic large ribosomal subunit	17934214	Component
+3702	814652	GO:0022626	IDA	-	cytosolic ribosome	15734919	Component
+3702	814653	GO:0003674	ND	-	molecular_function	-	Function
+3702	814653	GO:0005634	ISM	-	nucleus	-	Component
+3702	814653	GO:0008150	ND	-	biological_process	-	Process
+3702	814654	GO:0005576	ISM	-	extracellular region	-	Component
+3702	814654	GO:0005768	IDA	-	endosome	22923678	Component
+3702	814654	GO:0005794	IDA	-	Golgi apparatus	16618929	Component
+3702	814654	GO:0005802	IDA	-	trans-Golgi network	22923678	Component
+3702	814655	GO:0008270	ISS	-	zinc ion binding	-	Function
+3702	814656	GO:0005634	ISM	-	nucleus	-	Component
+3702	814656	GO:0006355	ISS	-	regulation of transcription, DNA-templated	-	Process
+3702	814656	GO:0009793	IMP	-	embryo development ending in seed dormancy	15634699	Process
+3702	814656	GO:0010440	RCA	-	stomatal lineage progression	22589469	Process
+3702	814656	GO:0015377	ISS	-	cation:chloride symporter activity	-	Function
+3702	814657	GO:0004751	IDA	-	ribose-5-phosphate isomerase activity	19744161	Function
+3702	814657	GO:0005737	IDA	-	cytoplasm	17059404	Component
+3702	814657	GO:0005737	ISM	-	cytoplasm	-	Component
+3702	814657	GO:0008219	IMP	-	cell death	19744161	Process
+3702	814657	GO:0010228	IMP	-	vegetative to reproductive phase transition of meristem	19744161	Process
+3702	814658	GO:0003674	ND	-	molecular_function	-	Function
+3702	814658	GO:0008150	ND	-	biological_process	-	Process
+3702	814658	GO:0009507	ISM	-	chloroplast	-	Component
+3702	814659	GO:0003674	ND	-	molecular_function	-	Function
+3702	814659	GO:0005575	ND	-	cellular_component	-	Component
+3702	814659	GO:0008150	ND	-	biological_process	-	Process
+3702	814660	GO:0009507	IDA	-	chloroplast	18431481	Component
+3702	814660	GO:0009941	IDA	-	chloroplast envelope	20061580	Component
+3702	814660	GO:0042626	ISS	-	ATPase activity, coupled to transmembrane movement of substances	-	Function
+3702	814661	GO:0000166	ISS	-	nucleotide binding	-	Function
+3702	814661	GO:0005737	ISM	-	cytoplasm	-	Component
+3702	814661	GO:0008150	ND	-	biological_process	-	Process
+3702	814661	GO:0080008	ISS	-	Cul4-RING E3 ubiquitin ligase complex	18223036	Component
+3702	814662	GO:0003674	ND	-	molecular_function	-	Function
+3702	814662	GO:0005886	IDA	-	plasma membrane	17317660	Component
+3702	814662	GO:0009624	IEP	-	response to nematode	20565617	Process
+3702	814663	GO:0004514	IGI	-	nicotinate-nucleotide diphosphorylase (carboxylating) activity	16698895	Function
+3702	814663	GO:0004514	IMP	-	nicotinate-nucleotide diphosphorylase (carboxylating) activity	16698895	Function
+3702	814663	GO:0004514	ISS	-	nicotinate-nucleotide diphosphorylase (carboxylating) activity	-	Function
+3702	814663	GO:0009435	IGI	-	NAD biosynthetic process	16698895	Process
+3702	814663	GO:0009435	IMP	-	NAD biosynthetic process	16698895	Process
+3702	814663	GO:0009507	IDA	-	chloroplast	16698895	Component
+3702	814663	GO:0009507	ISM	-	chloroplast	-	Component
+3702	814664	GO:0003674	ND	-	molecular_function	-	Function
+3702	814664	GO:0005739	ISM	-	mitochondrion	-	Component
+3702	814664	GO:0008150	ND	-	biological_process	-	Process
+3702	814665	GO:0005634	ISM	-	nucleus	-	Component
+3702	814665	GO:0006355	TAS	-	regulation of transcription, DNA-templated	12535344	Process
+3702	814665	GO:0008150	ND	-	biological_process	-	Process
+3702	814667	GO:0005739	ISM	-	mitochondrion	-	Component
+3702	814667	GO:0008150	ND	-	biological_process	-	Process
+3702	814668	GO:0003674	ND	-	molecular_function	-	Function
+3702	814668	GO:0008150	ND	-	biological_process	-	Process
+3702	814668	GO:0009507	ISM	-	chloroplast	-	Component
+3702	814669	GO:0003674	ND	-	molecular_function	-	Function
+3702	814669	GO:0005774	IDA	-	vacuolar membrane	17151019	Component
+3702	814669	GO:0005783	IDA	-	endoplasmic reticulum	22923678	Component
+3702	814669	GO:0005886	IDA	-	plasma membrane	17317660	Component
+3702	814669	GO:0008150	ND	-	biological_process	-	Process
+3702	814670	GO:0000271	RCA	-	polysaccharide biosynthetic process	22589469	Process
+3702	814670	GO:0005215	ISS	-	transporter activity	-	Function
+3702	814670	GO:0007389	IGI	-	pattern specification process	15635403	Process
+3702	814670	GO:0007389	RCA	-	pattern specification process	22589469	Process
+3702	814670	GO:0008361	RCA	-	regulation of cell size	22589469	Process
+3702	814670	GO:0009672	ISS	-	auxin:proton symporter activity	-	Function
+3702	814670	GO:0009825	RCA	-	multidimensional cell growth	22589469	Process
+3702	814670	GO:0009926	IMP	-	auxin polar transport	11893337	Process
+3702	814670	GO:0009926	ISS	-	auxin polar transport	-	Process
+3702	814670	GO:0009926	RCA	-	auxin polar transport	22589469	Process
+3702	814670	GO:0009932	RCA	-	cell tip growth	22589469	Process
+3702	814670	GO:0010015	RCA	-	root morphogenesis	22589469	Process
+3702	814670	GO:0010218	RCA	-	response to far red light	22589469	Process
+3702	814670	GO:0010817	RCA	-	regulation of hormone levels	22589469	Process
+3702	814670	GO:0040007	RCA	-	growth	22589469	Process
+3702	814670	GO:0043481	RCA	-	anthocyanin accumulation in tissues in response to UV light	22589469	Process
+3702	814670	GO:0048364	IMP	-	root development	11893337	Process
+3702	814670	GO:0048765	RCA	-	root hair cell differentiation	22589469	Process
+3702	814670	GO:0048767	RCA	-	root hair elongation	22589469	Process
+3702	814670	GO:0071555	RCA	-	cell wall organization	22589469	Process
+3702	814671	GO:0003700	ISS	-	sequence-specific DNA binding transcription factor activity	11118137	Function
+3702	814671	GO:0005634	ISM	-	nucleus	-	Component
+3702	814671	GO:0005634	ISS	-	nucleus	-	Component
+3702	814671	GO:0006355	ISS	-	regulation of transcription, DNA-templated	-	Process
+3702	814672	GO:0005634	ISM	-	nucleus	-	Component
+3702	814672	GO:0008026	ISS	-	ATP-dependent helicase activity	-	Function
+3702	814673	GO:0004674	IDA	-	protein serine/threonine kinase activity	21477822	Function
+3702	814673	GO:0004707	ISS	-	MAP kinase activity	11544109	Function
+3702	814673	GO:0005634	ISM	-	nucleus	-	Component
+3702	814673	GO:0007165	IC	-	signal transduction	12119167	Process
+3702	814673	GO:0046777	IDA	-	protein autophosphorylation	21477822	Process
+3702	814674	GO:0005524	ISS	-	ATP binding	-	Function
+3702	814674	GO:0005737	ISM	-	cytoplasm	-	Component
+3702	814674	GO:0009058	ISS	-	biosynthetic process	-	Process
+3702	814674	GO:0010413	RCA	-	glucuronoxylan metabolic process	22589469	Process
+3702	814674	GO:0016301	ISS	-	kinase activity	-	Function
+3702	814674	GO:0031307	IDA	-	integral component of mitochondrial outer membrane	21896887	Component
+3702	814674	GO:0045492	RCA	-	xylan biosynthetic process	22589469	Process
+3702	814675	GO:0000166	ISS	-	nucleotide binding	-	Function
+3702	814675	GO:0005737	ISM	-	cytoplasm	-	Component
+3702	814675	GO:0005774	IDA	-	vacuolar membrane	17151019	Component
+3702	814675	GO:0005783	IDA	-	endoplasmic reticulum	16618929	Component
+3702	814675	GO:0005886	IDA	-	plasma membrane	14506206	Component
+3702	814675	GO:0006888	RCA	-	ER to Golgi vesicle-mediated transport	22589469	Process
+3702	814675	GO:0006888	TAS	-	ER to Golgi vesicle-mediated transport	9159953	Process
+3702	814675	GO:0016020	IDA	-	membrane	17432890	Component
+3702	814675	GO:0030176	IDA	-	integral component of endoplasmic reticulum membrane	9159953	Component
+3702	814675	GO:0043090	RCA	-	amino acid import	22589469	Process
+3702	814676	GO:0005794	ISM	-	Golgi apparatus	-	Component
+3702	814676	GO:0016757	ISM	-	transferase activity, transferring glycosyl groups	22923678	Function
+3702	814677	GO:0005886	IDA	-	plasma membrane	17317660	Component
